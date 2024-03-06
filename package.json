@@ -1,0 +1,27 @@
+{
+  "name": "uniswap-txn-fees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giri-Aayush/uniswap-txn-fees.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giri-Aayush/uniswap-txn-fees/issues"
+  },
+  "homepage": "https://github.com/Giri-Aayush/uniswap-txn-fees#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.11.1",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1"
+  }
+}
